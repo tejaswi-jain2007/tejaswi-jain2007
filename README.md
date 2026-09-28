@@ -1,92 +1,114 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinLaxenaire/martinlaxenaire.github.io/master/assets/images/handshake.gif" width="30px"/>
-  Hey there, I'm <a href="https://linkedin.com/in/tejaswi-jain-3a5802332">Tejaswi Jain</a>
-</h1>
-
-<h3 align="center">
-  🚀 Founder & CEO @ <a href="https://github.com/tejaswi-jain2007/queueless-app">QueueLess</a> &nbsp;|&nbsp; 🧠 B.Tech AI & Machine Learning &nbsp;|&nbsp; 📱 Mobile & Full Stack Architect
-</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/tejaswi-jain-3a5802332"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/tejaswi-jain2007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/tejaswi-jain2007/queueless-app"><img src="https://img.shields.io/badge/Startup-QueueLess-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white"/></a>
-</p>
-
-<br/>
-
 <div align="center">
-  <img src="https://spotify-github-profile-550w.vercel.app/api/run-spotify-tracker" alt="Now Playing / Vibe" error="false" />
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=34&pause=800&color=00F2FE&center=true&vCenter=true&width=800&height=70&lines=TEJASWI+JAIN;FOUNDER+%26+CEO+%40+QUEUELESS;AI%2FML+%26+MOBILE+SYSTEMS+ARCHITECT;BUILDING+THE+FUTURE+OF+RETAIL+TECH" alt="Cyber Title" />
+
+  <p align="center">
+    <a href="https://linkedin.com/in/tejaswi-jain-3a5802332"><img src="https://img.shields.io/badge/LINKEDIN-00F2FE?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+    <a href="https://github.com/tejaswi-jain2007/queueless-app"><img src="https://img.shields.io/badge/STARTUP-QUEUELESS-9333EA?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+    <a href="https://github.com/tejaswi-jain2007"><img src="https://komarev.com/ghpvc/?username=tejaswi-jain2007&color=ec4899&style=for-the-badge&label=PROFILE+VIEWS" /></a>
+  </p>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 </div>
 
 <br/>
 
----
+### ⚡ EXECUTIVE DASHBOARD
 
-### 💫 About Me & The Mission
-
-```typescript
-const tejaswi = {
-  role: "Founder & CEO at QueueLess",
-  education: "B.Tech in Artificial Intelligence & Machine Learning",
-  currentFocus: "Automating Retail Tech & Eliminating Store Checkout Queues",
-  passions: ["Artificial Intelligence", "Flutter & Mobile Systems", "Startup Building"],
-  motto: "Building technology that solves real-world customer friction."
-};
+```powershell
+========================================================================================
+  NAME      : TEJASWI JAIN
+  ROLE      : FOUNDER & CEO @ QUEUELESS
+  EDUCATION : B.TECH IN ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+  LOCATION  : INDIA
+  FOCUS     : AI/ML SYSTEMS • MOBILE ECOSYSTEMS (FLUTTER/KOTLIN) • RETAIL AUTOMATION
+========================================================================================
 ```
 
-- 🚀 **Building QueueLess**: Smart retail checkout & automated queue management customer engine.
-- 🎓 **Academic**: B.Tech AI & Machine Learning student actively competing in national hackathons.
-- 💬 **Ask me about**: Flutter, Python, AI/ML, NLP, Computer Vision & Startup Strategy.
-- 📫 **How to reach me**: [LinkedIn Profile](https://www.linkedin.com/in/tejaswi-jain-3a5802332/)
+> 🎯 **MISSION STATEMENT**:  
+> *"Eliminating long store checkout lines with intelligent mobile checkout & AI queue management engines. Transforming retail friction into seamless customer experiences."*
 
 ---
 
-### 🛠️ Languages & Tools Arsenal
+### 🚀 FEATURED VENTURES & SHOWCASE
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,kt,dart,flutter,cpp,java,react,angular,vue,next,fastapi,nodejs,postgres,mongodb,docker,aws,vscode,figma&perline=10" />
+
+| Project | Domain | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| 🛒 **QueueLess App** | **Retail Startup Engine** | `Kotlin` `Flutter` `Android` `Dart` | [**`Explore Code →`**](https://github.com/tejaswi-jain2007/queueless-app) |
+| 🔮 **Parikshak (Examora)** | **AI Governance Platform** | `TypeScript` `AI/ML` `React` `Node.js` | [**`Explore Code →`**](https://github.com/tejaswi-jain2007/Parikshak) |
+| 🖐️ **SIGNEX** | **Computer Vision AI** | `Python` `OpenCV` `NLP` `AI/ML` | [**`Explore Code →`**](https://github.com/tejaswi-jain2007/SIGNEX) |
+| 🌐 **bhu-drishti** | **Geo-Spatial AI Mapping** | `Python` `AI/ML` `GIS Analytics` | [**`Explore Code →`**](https://github.com/tejaswi-jain2007/bhu-drishti) |
+| 🎓 **EduTrack** | **EdTech Platform** | `TypeScript` `React` `TailwindCSS` | [**`Explore Code →`**](https://github.com/tejaswi-jain2007/EduTrack) |
+| ⚡ **hackathon-app-v2** | **Automation Engine** | `Python` `Flask` `AI Engine` | [**`Explore Code →`**](https://github.com/tejaswi-jain2007/hackathon-app-v2) |
+
 </div>
 
-<br/>
-
-<details>
-  <summary><b>🔥 Detailed Tech Stack Breakdown (Click to expand)</b></summary>
-  <br/>
-  
-  - **Mobile & Cross-Platform**: `Flutter` • `Kotlin` • `Android Studio` • `Dart`
-  - **AI / ML & Data Science**: `Machine Learning` • `NLP` • `Generative AI` • `OpenCV` • `Python`
-  - **Core Languages**: `C` • `C++` • `Java` • `Python` • `TypeScript` • `JavaScript`
-  - **Frontend Frameworks**: `React` • `Angular` • `Vue.js` • `Next.js` • `TailwindCSS`
-  - **Backend & Cloud**: `Node.js` • `FastAPI` • `Express` • `PostgreSQL` • `MongoDB` • `Docker` • `AWS`
-</details>
-
 ---
 
-### 📌 Pinned High-Impact Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🛒 [**QueueLess Android App**](https://github.com/tejaswi-jain2007/queueless-app) | **Flagship Product**: Smart retail checkout & queue automation customer engine | `Kotlin` `Flutter` `Android` |
-| 🔮 [**Parikshak (Examora)**](https://github.com/tejaswi-jain2007/Parikshak) | AI-First Autonomous Examination Evaluation & Board Governance Platform | `TypeScript` `AI/ML` `React` |
-| 🖐️ [**SIGNEX AI Engine**](https://github.com/tejaswi-jain2007/SIGNEX) | AI-powered sign language recognition & gesture translation platform | `Python` `OpenCV` `NLP` |
-| 🌐 [**bhu-drishti**](https://github.com/tejaswi-jain2007/bhu-drishti) | Geo-spatial AI mapping and intelligent land inspection system | `Python` `AI/ML` `GIS` |
-| 🎓 [**EduTrack**](https://github.com/tejaswi-jain2007/EduTrack) | Gamified personalized learning progress tracking platform for students | `TypeScript` `React` `Tailwind` |
-| ⚡ [**hackathon-app-v2**](https://github.com/tejaswi-jain2007/hackathon-app-v2) | Autonomous hackathon management & project submission system v2 | `Python` `Flask` `AI` |
-
----
-
-### 📈 Contribution Activity
+### 🔮 SKILL & TECHNOLOGY ARSENAL
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswi-jain2007&theme=tokyonight&hide_border=true" width="85%" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,kt,dart,flutter,cpp,java,react,angular,vue,next,fastapi,nodejs,postgres,mongodb,docker,aws,vscode,figma&perline=10" width="100%" />
 </div>
 
 <br/>
 
-### 🐍 Contribution Graph Snake
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>📱 Mobile & Android</h4>
+      <ul>
+        <li>Flutter</li>
+        <li>Kotlin Native</li>
+        <li>Android Studio</li>
+        <li>Dart</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🧠 AI, ML & NLP</h4>
+      <ul>
+        <li>Machine Learning</li>
+        <li>NLP Architecture</li>
+        <li>Generative AI</li>
+        <li>OpenCV / Vision</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🌐 Full-Stack & Cloud</h4>
+      <ul>
+        <li>React & Next.js</li>
+        <li>FastAPI & Node.js</li>
+        <li>PostgreSQL / MongoDB</li>
+        <li>Docker & AWS</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 ANALYTICS & COMMIT STREAK
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/tejaswi-jain2007">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswi-jain2007&theme=synthwave&hide_border=false" width="85%" />
+  </a>
+</div>
+
+<br/>
+
+### 🐍 CONTRIBUTION SNAKE GAME
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejaswi-jain2007/tejaswi-jain2007/output/github-contribution-grid-snake-dark.svg">
@@ -96,9 +118,12 @@ const tejaswi = {
 
 ---
 
+<br/>
+
 <div align="center">
-  <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <br/><br/>
   <a href="https://linkedin.com/in/tejaswi-jain-3a5802332">
-    <img src="https://img.shields.io/badge/⚡%20Let's%20Connect%20%26%20Build%20Together-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/⚡%20CONNECT%20ON%20LINKEDIN-00F2FE?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
 </div>
