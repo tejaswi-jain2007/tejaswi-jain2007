@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://linkedin.com/in/tejaswi-jain-3a5802332"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     &nbsp;
-    <a href="https://github.com/tejaswi-jain2007/queueless-app"><img src="https://img.shields.io/badge/Startup-QueueLess-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+    <a href="https://www.queueless.page/"><img src="https://img.shields.io/badge/Startup-QueueLess-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" /></a>
     &nbsp;
     <a href="https://github.com/tejaswi-jain2007"><img src="https://komarev.com/ghpvc/?username=tejaswi-jain2007&color=06b6d4&style=for-the-badge&label=Views" /></a>
   </p>
