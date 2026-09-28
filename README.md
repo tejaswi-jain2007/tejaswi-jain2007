@@ -1,42 +1,44 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&customColorList=10,15,20&height=220&section=header&text=TEJASWI%20JAIN&fontSize=50&fontColor=58a6ff&animation=twinkling&subtext=%F0%9F%9A%80%20Founder%20%26%20CEO%20%40%20QueueLess%20%7C%20B.Tech%20AIML%20Student&subfontSize=18" alt="GitHub Dark Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,14,26&height=220&section=header&text=TEJASWI%20JAIN&fontSize=50&fontColor=ffffff&font=Inter&animation=twinkling&subtext=FOUNDER%20%26%20CEO%20%40%20QUEUELESS%20%7C%20AI%2FML%20SYSTEMS%20ARCHITECT&subfontSize=18" alt="Header Banner" width="100%" />
   
   <br/>
   
   <p align="center">
     <a href="https://linkedin.com/in/tejaswi-jain-3a5802332"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/tejaswi-jain2007/queueless-app"><img src="https://img.shields.io/badge/Startup-QueueLess-238636?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-    <a href="https://github.com/tejaswi-jain2007"><img src="https://komarev.com/ghpvc/?username=tejaswi-jain2007&color=58a6ff&style=for-the-badge&label=Profile+Views" /></a>
+    &nbsp;
+    <a href="https://github.com/tejaswi-jain2007/queueless-app"><img src="https://img.shields.io/badge/Startup-QueueLess-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+    &nbsp;
+    <a href="https://github.com/tejaswi-jain2007"><img src="https://komarev.com/ghpvc/?username=tejaswi-jain2007&color=06b6d4&style=for-the-badge&label=Views" /></a>
   </p>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%9A%80+Founder+%26+CEO+at+QueueLess;%F0%9F%A7%A0+B.Tech+AI+%26+Machine+Learning;%F0%9F%93%B1+Flutter+%26+Android+Mobile+Engineer;%E2%9A%A1+Building+Smart+Retail+Checkout+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&height=50&lines=FOUNDER+%26+CEO+AT+QUEUELESS;B.TECH+IN+AI+%26+MACHINE+LEARNING;FLUTTER+%26+ANDROID+SYSTEMS+DEVELOPER;BUILDING+THE+FUTURE+OF+RETAIL+AUTOMATION" />
 </div>
 
 <br/>
 
 ---
 
-### 💻 EXECUTIVE SUMMARY
+### <img src="https://raw.githubusercontent.com/tunnels-is/media/master/icons/terminal.png" width="22" /> Executive Summary
 
 ```yaml
-Name       : Tejaswi Jain
-Role       : Founder & CEO @ QueueLess
-Education  : B.Tech in Artificial Intelligence & Machine Learning
-Location   : India
-Core Focus : AI/ML Architectures • Mobile Ecosystems (Flutter/Kotlin) • Retail Automation
+Name        : Tejaswi Jain
+Title       : Founder & CEO @ QueueLess
+Education   : B.Tech in Artificial Intelligence & Machine Learning
+Core Focus  : Applied AI/ML • Mobile Ecosystems (Flutter/Kotlin) • Retail Tech Automation
+Location    : India
 ```
 
-> **"Eliminating long store checkout lines with intelligent mobile checkout & AI queue management. Transforming retail friction into seamless customer experiences."**
+> **"Eliminating in-store checkout lines through automated queue systems and smart mobile checkout engines."**
 
 ---
 
-### 🛠️ TECH STACK & ARSENAL
+### <img src="https://raw.githubusercontent.com/tunnels-is/media/master/icons/cpu.png" width="22" /> Technical Capabilities & Stack
 
-#### 📱 Mobile & Android Development
+#### <img src="https://raw.githubusercontent.com/tunnels-is/media/master/icons/android.png" width="18" /> Mobile & Android Systems
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -44,7 +46,7 @@ Core Focus : AI/ML Architectures • Mobile Ecosystems (Flutter/Kotlin) • Reta
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-#### 🧠 AI, Machine Learning & NLP
+#### <img src="https://raw.githubusercontent.com/tunnels-is/media/master/icons/brain.png" width="18" /> AI, Machine Learning & NLP
 <p>
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=spacy&logoColor=white" />
@@ -53,7 +55,7 @@ Core Focus : AI/ML Architectures • Mobile Ecosystems (Flutter/Kotlin) • Reta
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-#### 🌐 Full-Stack & Core Languages
+#### <img src="https://raw.githubusercontent.com/tunnels-is/media/master/icons/code.png" width="18" /> Full-Stack & Core Systems
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -72,42 +74,42 @@ Core Focus : AI/ML Architectures • Mobile Ecosystems (Flutter/Kotlin) • Reta
 
 ---
 
-### 🚀 FEATURED REAL PROJECTS
+### <img src="https://raw.githubusercontent.com/tunnels-is/media/master/icons/rocket.png" width="22" /> Key Pinned Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/tejaswi-jain2007/queueless-app">QueueLess Android Engine</a></h3>
+      <h3><a href="https://github.com/tejaswi-jain2007/queueless-app">QueueLess Android Engine</a></h3>
       <p><b>Flagship Startup Product</b>: Smart retail checkout & queue automation customer mobile engine.</p>
       <p><code>Kotlin</code> <code>Flutter</code> <code>Android</code> <code>Dart</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔮 <a href="https://github.com/tejaswi-jain2007/Parikshak">Parikshak (Examora)</a></h3>
-      <p><b>AI Governance</b>: AI-First Autonomous Examination Evaluation Platform.</p>
+      <h3><a href="https://github.com/tejaswi-jain2007/Parikshak">Parikshak (Examora)</a></h3>
+      <p><b>AI Governance Platform</b>: AI-First Autonomous Examination Evaluation Platform.</p>
       <p><code>TypeScript</code> <code>AI/ML</code> <code>React</code> <code>Node.js</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖐️ <a href="https://github.com/tejaswi-jain2007/SIGNEX">SIGNEX AI Engine</a></h3>
-      <p><b>Computer Vision</b>: AI-powered sign language recognition & gesture translation engine.</p>
+      <h3><a href="https://github.com/tejaswi-jain2007/SIGNEX">SIGNEX AI Engine</a></h3>
+      <p><b>Computer Vision Engine</b>: AI-powered sign language recognition & gesture translation engine.</p>
       <p><code>Python</code> <code>OpenCV</code> <code>NLP</code> <code>AI/ML</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/tejaswi-jain2007/bhu-drishti">bhu-drishti</a></h3>
+      <h3><a href="https://github.com/tejaswi-jain2007/bhu-drishti">bhu-drishti</a></h3>
       <p><b>Geo-Spatial Intelligence</b>: Geo-spatial AI mapping and land inspection system.</p>
       <p><code>Python</code> <code>AI/ML</code> <code>GIS Analytics</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 <a href="https://github.com/tejaswi-jain2007/EduTrack">EduTrack Platform</a></h3>
-      <p><b>EdTech</b>: Gamified personalized learning progress tracking system.</p>
+      <h3><a href="https://github.com/tejaswi-jain2007/EduTrack">EduTrack Platform</a></h3>
+      <p><b>EdTech System</b>: Gamified personalized learning progress tracking system.</p>
       <p><code>TypeScript</code> <code>React</code> <code>TailwindCSS</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/tejaswi-jain2007/hackathon-app-v2">hackathon-app-v2</a></h3>
-      <p><b>Automation</b>: Autonomous hackathon management & project submission system v2.</p>
+      <h3><a href="https://github.com/tejaswi-jain2007/hackathon-app-v2">hackathon-app-v2</a></h3>
+      <p><b>Automation Platform</b>: Autonomous hackathon management & project submission system v2.</p>
       <p><code>Python</code> <code>Flask</code> <code>AI Engine</code></p>
     </td>
   </tr>
@@ -115,17 +117,17 @@ Core Focus : AI/ML Architectures • Mobile Ecosystems (Flutter/Kotlin) • Reta
 
 ---
 
-### 📊 GITHUB ACTIVITY & STREAK
+### <img src="https://raw.githubusercontent.com/tunnels-is/media/master/icons/chart.png" width="22" /> Engineering Activity & Contributions
 
 <div align="center">
   <a href="https://github.com/tejaswi-jain2007">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswi-jain2007&theme=github-dark-blue&hide_border=false" width="85%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswi-jain2007&theme=tokyonight&hide_border=false" width="85%" />
   </a>
 </div>
 
 <br/>
 
-### 🐍 CONTRIBUTION SNAKE GAME
+### <img src="https://raw.githubusercontent.com/tunnels-is/media/master/icons/game.png" width="22" /> Contribution Snake Grid
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejaswi-jain2007/tejaswi-jain2007/output/github-contribution-grid-snake-dark.svg">
