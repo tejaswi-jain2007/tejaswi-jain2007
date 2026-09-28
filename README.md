@@ -22,7 +22,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/tunnels-is/media/master/icons/terminal.png" width="22" /> Executive Summary
+### Executive Summary
 
 ```yaml
 Name        : Tejaswi Jain
@@ -36,9 +36,9 @@ Location    : India
 
 ---
 
-### <img src="https://raw.githubusercontent.com/tunnels-is/media/master/icons/cpu.png" width="22" /> Technical Capabilities & Stack
+### Technical Capabilities & Stack
 
-#### <img src="https://raw.githubusercontent.com/tunnels-is/media/master/icons/android.png" width="18" /> Mobile & Android Systems
+#### Mobile & Android Systems
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -46,7 +46,7 @@ Location    : India
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-#### <img src="https://raw.githubusercontent.com/tunnels-is/media/master/icons/brain.png" width="18" /> AI, Machine Learning & NLP
+#### AI, Machine Learning & NLP
 <p>
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=spacy&logoColor=white" />
@@ -55,7 +55,7 @@ Location    : India
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-#### <img src="https://raw.githubusercontent.com/tunnels-is/media/master/icons/code.png" width="18" /> Full-Stack & Core Systems
+#### Full-Stack & Core Systems
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -74,7 +74,7 @@ Location    : India
 
 ---
 
-### <img src="https://raw.githubusercontent.com/tunnels-is/media/master/icons/rocket.png" width="22" /> Key Pinned Projects
+### Key Pinned Projects
 
 <table>
   <tr>
@@ -117,7 +117,7 @@ Location    : India
 
 ---
 
-### <img src="https://raw.githubusercontent.com/tunnels-is/media/master/icons/chart.png" width="22" /> Engineering Activity & Contributions
+### Engineering Activity & Contributions
 
 <div align="center">
   <a href="https://github.com/tejaswi-jain2007">
@@ -127,7 +127,7 @@ Location    : India
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/tunnels-is/media/master/icons/game.png" width="22" /> Contribution Snake Grid
+### Contribution Snake Grid
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejaswi-jain2007/tejaswi-jain2007/output/github-contribution-grid-snake-dark.svg">
