@@ -109,22 +109,12 @@ At **QueueLess**, I am working on eliminating long checkout lines and improving 
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/tejaswi-jain2007"><img src="https://github-profile-trophy.vercel.app/?username=tejaswi-jain2007&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" /></a>
-</div>
-<br/>
-
-### 📊 GitHub Activity Statistics
+### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <a href="https://github.com/tejaswi-jain2007"><img src="https://github-readme-stats.vercel.app/api?username=tejaswi-jain2007&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub Stats" height="170" /></a>
-  <a href="https://github.com/tejaswi-jain2007"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswi-jain2007&layout=compact&theme=tokyonight" alt="Top Languages" height="170" /></a>
-</div>
-
-<br/>
-<div align="center">
-  <a href="https://github.com/tejaswi-jain2007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswi-jain2007&theme=tokyonight" alt="GitHub Streak" /></a>
+  <a href="https://github.com/tejaswi-jain2007">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswi-jain2007&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
