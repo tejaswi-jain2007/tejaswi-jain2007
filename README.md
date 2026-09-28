@@ -3,10 +3,21 @@
   
   <br/>
   
-  <a href="https://github.com/tejaswi-jain2007"><img src="https://komarev.com/ghpvc/?username=tejaswi-jain2007&color=06b6d4&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
-  <a href="https://linkedin.com/in/tejaswi-jain-3a5802332"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/tejaswi_jain"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://github.com/tejaswi-jain2007/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white" alt="Portfolio" /></a>
+  <!-- Official Verified & Status Badges -->
+  <a href="https://github.com/tejaswi-jain2007"><img src="https://img.shields.io/badge/GitHub-PRO-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" /></a>
+  <a href="https://github.com/tejaswi-jain2007"><img src="https://img.shields.io/badge/GitHub-Verified_Developer-181717?style=for-the-badge&logo=github&logoColor=white" alt="Verified Developer" /></a>
+  <a href="https://github.com/tejaswi-jain2007"><img src="https://img.shields.io/badge/Open_Source-Contributor-00C7B7?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source Contributor" /></a>
+  <a href="https://linkedin.com/in/tejaswi-jain-3a5802332"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/tejaswi-jain2007/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
+</div>
+
+<br/>
+
+<!-- Visitor Badge & Quick Counters -->
+<div align="center">
+  <a href="https://github.com/tejaswi-jain2007"><img src="https://komarev.com/ghpvc/?username=tejaswi-jain2007&color=06b6d4&style=for-the-badge&label=Profile+Views" alt="Profile Views" /></a>
+  <a href="https://github.com/tejaswi-jain2007?tab=followers"><img src="https://img.shields.io/github/followers/tejaswi-jain2007?style=for-the-badge&color=8b5cf6&logo=github" alt="Followers" /></a>
+  <a href="https://github.com/tejaswi-jain2007?tab=repositories"><img src="https://img.shields.io/github/stars/tejaswi-jain2007?style=for-the-badge&color=ec4899&logo=github" alt="Total Stars" /></a>
 </div>
 
 <br/>
@@ -28,6 +39,19 @@ At **QueueLess**, I am working on eliminating long checkout lines and improving 
 - 💡 **Key Interests**: AI/ML, Startup Building, Retail Tech Automation, Full-Stack & Mobile Dev, Product Strategy
 - 💼 **Open To**: Connecting with founders, developers, investors & tech innovators!
 - 📍 **Location**: India
+
+---
+
+### 🏆 GitHub Achievements & Badges
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Achievement-Pull_Shark-FF8B00?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/Achievement-Quickdraw-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/Achievement-Yolo-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Yolo" />
+  <img src="https://img.shields.io/badge/Achievement-Pair_Extraordinaire-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" />
+</div>
+
+<br/>
 
 ---
 
@@ -109,13 +133,22 @@ At **QueueLess**, I am working on eliminating long checkout lines and improving 
 
 ---
 
-### 📊 GitHub Activity & Streak
+### 📊 GitHub Streak & Activity
 
 <div align="center">
   <a href="https://github.com/tejaswi-jain2007">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswi-jain2007&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </div>
+
+<br/>
+
+### 🐍 Contribution Graph Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejaswi-jain2007/tejaswi-jain2007/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejaswi-jain2007/tejaswi-jain2007/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/tejaswi-jain2007/tejaswi-jain2007/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
