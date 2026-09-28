@@ -96,16 +96,16 @@ At **QueueLess**, I am working on eliminating long checkout lines and improving 
 
 ---
 
-### 🚀 Featured Real Projects
+### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**🔮 Parikshak (Examora)**](https://github.com/tejaswi-jain2007/Parikshak) | AI-First Autonomous Examination Evaluation & Board Governance Platform. | `TypeScript` `React` `AI/ML` `Node.js` |
-| [**🔐 Secure Finance Tracker Decoy**](https://github.com/tejaswi-jain2007/Secure-Finance-Tracker-Decoy) | Privacy-first finance app hiding a powerful financial engine behind a secret clock trigger. | `Kotlin` `React` `FastAPI` `Android` |
-| [**🪄 Harry Potter Invisibility Cloak**](https://github.com/tejaswi-jain2007/Harry-Potter-Cloak) | Real-time computer vision invisibility cloak with themed UI, spell effects, and sound cues. | `Python` `OpenCV` `Flask` `HTML/CSS/JS` |
-| [**🎓 EduTrack Platform**](https://github.com/tejaswi-jain2007/EduTrack) | Gamified & personalized learning progress tracking platform for students. | `TypeScript` `React` `TailwindCSS` |
-| [**🎱 8-Ball Pool Multiplayer**](https://github.com/tejaswi-jain2007/8-BALL-POOL) | 8 Ball Pool game with real-time online multiplayer support. | `Kotlin` `Android Studio` `Java` |
-| [**🚀 Queueless Customer App**](https://github.com/tejaswi-jain2007/queueless-app) | Smart customer queue management app for seamless digital check-ins. | `Kotlin` `Flutter` `Android` |
+| [**🔮 Parikshak**](https://github.com/tejaswi-jain2007/Parikshak) | Parikshak (Examora) — AI-First Autonomous Examination Evaluation & Board Governance Platform. | `TypeScript` `AI/ML` `React` |
+| [**🖐️ SIGNEX**](https://github.com/tejaswi-jain2007/SIGNEX) | AI-powered sign language recognition & gesture translation engine. | `Python` `OpenCV` `AI/ML` |
+| [**🌐 bhu-drishti**](https://github.com/tejaswi-jain2007/bhu-drishti) | Geo-spatial AI mapping and land inspection system. | `Python` `AI/ML` `GIS` |
+| [**🎓 EduTrack**](https://github.com/tejaswi-jain2007/EduTrack) | A Gamified and Personalized platform for students for their study progress. | `TypeScript` `React` `Tailwind` |
+| [**⚡ hackathon-app-v2**](https://github.com/tejaswi-jain2007/hackathon-app-v2) | Autonomous hackathon management & project submission system v2. | `Python` `Flask` `AI` |
+| [**🛒 queueless-app**](https://github.com/tejaswi-jain2007/queueless-app) | QueueLess Customer Android App — Smart retail checkout & queue automation. | `Kotlin` `Flutter` `Android` |
 
 ---
 
