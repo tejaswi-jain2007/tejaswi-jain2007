@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,14,26&height=220&section=header&text=Tejaswi%20Jain&fontSize=50&fontColor=ffffff&animation=twinkling&subtext=Full%20Stack%2C%20AI%2FML%20%26%20Android%20Engineer&subfontSize=20" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,14,26&height=220&section=header&text=Tejaswi%20Jain&fontSize=45&fontColor=ffffff&animation=twinkling&subtext=%F0%9F%9A%80%20Founder%20%26%20CEO%20%40%20QueueLess%20%7C%20B.Tech%20AIML%20Student&subfontSize=18" alt="Header Banner" width="100%" />
   
   <br/>
   
@@ -8,30 +8,38 @@
 
 <br/>
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-> **Passionate software creator crafting intelligent AI systems, high-performance web applications & native mobile apps.**
+> **Founder & CEO at QueueLess | AI & Retail Tech Enthusiast | B.Tech AIML Student**
 
-- 🔭 **Currently Working On**: Parikshak AI Autonomous Evaluation & Secure Mobile Decoy Ecosystems
-- 🌱 **Currently Learning**: Advanced AI Transformers, LLM Architecture & Cross-Platform Flutter
-- 💼 **Targeting Roles**: Full Stack Engineer, AI/ML Engineer, Android / Mobile Engineer
-- 🏢 **Company / Org**: Open Source Contributor
+I am the Founder & CEO of **QueueLess**, a retail technology startup focused on transforming the in-store shopping experience through smart checkout and queue management solutions.
+
+My passion lies at the intersection of **Artificial Intelligence, Mobile Development, and Business Innovation**. With hands-on experience in Flutter, Python, Full-Stack Development, and AI/ML, I enjoy building technology that solves real-world problems and creates measurable impact.
+
+Currently pursuing a **B.Tech in Artificial Intelligence & Machine Learning**, I have actively participated in national-level hackathons, innovation challenges, and startup programs, gaining valuable experience in product development, problem-solving, and entrepreneurship.
+
+At **QueueLess**, I am working on eliminating long checkout lines and improving customer experience for retailers through technology-driven solutions.
+
+- 🔭 **Currently Building**: [QueueLess](https://github.com/tejaswi-jain2007/queueless-app) - Smart Retail Checkout & Queue Automation Engine
+- 🎓 **Education**: B.Tech in Artificial Intelligence & Machine Learning
+- 💡 **Key Interests**: AI/ML, Startup Building, Retail Tech Automation, Full-Stack & Mobile Dev, Product Strategy
+- 💼 **Open To**: Connecting with founders, developers, investors & tech innovators!
 - 📍 **Location**: India
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-#### Core Languages
+#### Core Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-#### AI, Machine Learning & NLP
+#### AI, Machine Learning & Natural Language Processing
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=spacy&logoColor=white) ![AI / Generative AI](https://img.shields.io/badge/Artificial_Intelligence-00599C?style=for-the-badge&logo=openai&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 #### Mobile & Android Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-#### Frontend Development
+#### Frontend Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5/CSS3](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 #### Backend & Databases
@@ -84,8 +92,8 @@
 ---
 
 <div align="center">
-  <p>⚡ <i>Automated & Boosted using <b>GitHub Profile Booster Suite</b></i></p>
-  <a href="https://github.com/tejaswi-jain2007">
-    <img src="https://img.shields.io/badge/Connect%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <p>⚡ <i>Let's connect and build the future together!</i></p>
+  <a href="https://linkedin.com/in/tejaswi-jain-3a5802332">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
